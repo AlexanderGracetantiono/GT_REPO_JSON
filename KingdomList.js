@@ -1,4 +1,4 @@
-[
+{[
     {
         id: "K_1",
         text: "Bacteria",
@@ -31,4 +31,4 @@
         id: "K_8",
         text: "Animalia"
     },
-]
+]}
