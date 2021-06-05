@@ -1,0 +1,32 @@
+{
+    "kingdom": [
+        {
+            "id": "K1",
+            "text": "Bacteria"
+        },
+        {
+            "id": "K2",
+            "text": "Protozoa"
+        },
+        {
+            "id": "K3",
+            "text": "Fungi"
+        },
+        {
+            "id": "K4",
+            "text": "Archaea"
+        },
+        {
+            "id": "K5",
+            "text": "Chromista"
+        },
+        {
+            "id": "K6",
+            "text": "Plantae"
+        },
+        {
+            "id": "K7",
+            "text": "Animalia"
+        }
+    ]
+}

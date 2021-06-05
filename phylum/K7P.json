@@ -1,0 +1,47 @@
+[
+    {
+        "id": "K7P1",
+        "text": "Mollusca",
+        "alt":null
+    },
+    {
+        "id": "K7P2",
+        "text": "Porifera",
+        "alt":null
+    },
+    {
+        "id": "K7P3",
+        "text": "Cnidaria",
+        "alt":null
+    },
+    {
+        "id": "K7P4",
+        "text": "Platyhelminthes",
+        "alt":null
+    },
+    {
+        "id": "K7P5",
+        "text": "Nematoda",
+        "alt":null
+    },
+    {
+        "id": "K7P6",
+        "text": "Annelida",
+        "alt":null
+    },
+    {
+        "id": "K7P7",
+        "text": "Anthropoda",
+        "alt":null
+    },
+    {
+        "id": "K7P8",
+        "text": "Echinodermata",
+        "alt":null
+    },
+    {
+        "id": "K7P9",
+        "text": "Chordata",
+        "alt":null
+    }
+]

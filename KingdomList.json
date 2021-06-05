@@ -1,34 +1,30 @@
 [
     {
-        "id": "K_1",
+        "id": "K1",
         "text": "Bacteria"
     },
     {
-        "id": "K_2",
+        "id": "K2",
         "text": "Protozoa"
     },
     {
-        "id": "K_3",
+        "id": "K3",
         "text": "Fungi"
     },
     {
-        "id": "K_4",
+        "id": "K4",
         "text": "Archaea"
     },
     {
-        "id": "K_5",
-        "text": "Protozoa"
-    },
-    {
-        "id": "K_6",
+        "id": "K5",
         "text": "Chromista"
     },
     {
-        "id": "K_7",
+        "id": "K6",
         "text": "Plantae"
     },
     {
-        "id": "K_8",
+        "id": "K7",
         "text": "Animalia"
     }
 ]

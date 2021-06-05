@@ -1,0 +1,47 @@
+[
+    {
+        "id": "K1P1",
+        "text": "Candidate Phyla Radiation",
+        "alt":null
+    },
+    {
+        "id": "K1P2",
+        "text": "Patescibacteria",
+        "alt":null
+    },
+    {
+        "id": "K1P3",
+        "text": "Sphingobacteria",
+        "alt":null
+    },
+    {
+        "id": "K1P4",
+        "text": "Microgenomates",
+        "alt":null
+    },
+    {
+        "id": "K1P5",
+        "text": "Parcubacteria",
+        "alt":null
+    },
+    {
+        "id": "K1P6",
+        "text": "Proteobacteria",
+        "alt":null
+    },
+    {
+        "id": "K1P7",
+        "text": "Planctobacteria",
+        "alt":null
+    },
+    {
+        "id": "K1P8",
+        "text": "Terrabacteria",
+        "alt":null
+    },
+    {
+        "id": "K1P9",
+        "text": "Cryptic superphyla",
+        "alt":null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "K2P1",
+        "text": "Euglenozoa",
+        "alt":null
+    },
+    {
+        "id": "K2P2",
+        "text": "Amoebozoa",
+        "alt":null
+    },
+    {
+        "id": "K2P3",
+        "text": "Metamonada",
+        "alt":null
+    },
+    {
+        "id": "K2P4",
+        "text": "Choanozoa",
+        "alt":null
+    },
+    {
+        "id": "K2P5",
+        "text": "Loukozoa",
+        "alt":null
+    },
+    {
+        "id": "K2P6",
+        "text": "Percolozoa",
+        "alt":null
+    },
+    {
+        "id": "K2P7",
+        "text": "Microsporidia",
+        "alt":null
+    },
+    {
+        "id": "K2P8",
+        "text": "Sulcozoa",
+        "alt":null
+    }
+]
